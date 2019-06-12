@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Julius+Sans+One|Roboto&display=swap');
+h1 {
+   color:beige;
+}
+#uma{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 29%;
+    background-color: crimson;
+    display: flex;
+    }
+body{
+    background-color: beige;
+}
+#logo {
+    align-self: left;
+    padding: 1px;
+    flex: 45%;
+}
+#nome {
+    padding: 1px;
+    flex: 60%;
+}
+#fpr{
+    width:130px; 
+    height: 130px;
+    float: right;
+    
+}
+h1{
+    float: left; 
+    font-family: "BebasNeuelight", "Julius Sans One", 'Anton', sans-serif;
+    
+    font-size: 40px;
+}
+#eu{
+    width:330px; 
+    height: 330px;
+    float: left ;
+    padding-left: 22%;
+}
+#conteudo{
+    margin-top: 200px;
+    display:flex;
+}
+#imagem{
+    flex:50%;
+    margin-top: 11px;
+   }
+#informacoes{
+    position: absolute;
+    width: 100%;
+     flex: 50%;
+    margin-left: 210px;
+    font-family: "BebasNeueRegular","Julius Sans One", sans-serif;
+}
+#inf{
+    background-color:#182736;
+    border-right:0px;
+    color:beige;
+    margin-right:218px;
+    margin-left: 33%;
+    font-family: "BebasNeueLight", "Roboto", sans-serif;
+    padding: 5px;
+    left: 0px;
+
+}
+ul{
+    color: #132233;
+}
+.sobre{
+    margin-right: 30%;
+    margin-left: 31%;
+    font-family: "Roboto", sans-serif;
+    color:#132233;
+}
+.sub{
+    color: crimson;
+    font-family: "BebasNeueRegular","Julius Sans One", sans-serif;
+    font-size: 19px;
+}
+.titulos{
+    background-color:crimson;
+    left: 0px;
+    right: 0px;
+    position:absolute;
+    color:beige;
+    font-family: "BebasNeueLight", "Roboto", sans-serif;
+    padding: 5px;
+    font-size: 26px;
+    width: 100%;
+}
+.sub2{
+    color: crimson;
+    font-family: "BebasNeueRegular","Julius Sans One", sans-serif;
+    font-size: 19px;
+    float: center;
+}
+#idi{
+    
+}
+.subsub{
+    color: #132233;
+    font-size: 16px;
+    font-family: "BebasNeueLight", "Roboto", sans-serif;
+    margin-bottom: 5px;
+    padding-top: px;
+    left: 0px;
+
+}
+.idiomas{
+    font-family: "Roboto", sans-serif;
+}
+
+
+.barraum {
+    padding: 9px;
+    font-style: italic;
+    text-align: center;
+    background:#132233;
+  background: -webkit-linear-gradient(left, #132233 97%, crimson 97%);
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.barraumdois {
+padding: 9px;
+    font-style: italic;
+    text-align: center;
+    background:#132233;
+  background: -webkit-linear-gradient(left, #132233 87%, crimson 87%);
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.barradois {
+padding: 9px;
+    font-style: italic;
+    text-align: center;
+    background:#132233;
+  background: -webkit-linear-gradient(left, #132233 80%, crimson 80%);
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.barratres {
+padding: 9px;
+    font-style: italic;
+    text-align: center;
+    background:#132233;
+  background: -webkit-linear-gradient(left, #132233 75%, crimson 75%);
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.barraquatro {
+padding: 9px;
+    font-style: italic;
+    text-align: center;
+    background:#132233;
+  background: -webkit-linear-gradient(left, #132233 67%, crimson 67%);
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.topico{
+    color: crimson;
+    font-family: "BebasNeueRegular","Julius Sans One", sans-serif;
+    font-size: 19px;
+    margin-left: 8%;
+}
